@@ -9,7 +9,7 @@ namespace Ovning10
     {
         public void Drive()
         {
-            throw new System.NotImplementedException();
+            Console.WriteLine("Car drives.");
         }
     }
 }
